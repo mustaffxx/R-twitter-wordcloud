@@ -1,2 +1,2 @@
 # R-twitter-wordcloud
-A simple data mining and wordcloud for studies.
+Extracting data from the twitter timeline and plotting a wordcloud.
