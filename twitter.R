@@ -5,7 +5,7 @@ library(tidytext)
 library(tidyverse)
 
 create_token(
-  app = "my_twitter_research_app",
+  app = "your_twitter_research_app",
   consumer_key = "your_consume_key",
   consumer_secret = "your_secret_key")
 
